@@ -5,6 +5,8 @@
 
 <h3>What I know</h3>
 
+<img alt="programmer" src="https://image.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg" align="right" width="300" style="max-width: 100%;">
+
 <ul>
   <li>Strong knowledge of modern native JavaScript, HTML/CSS3</li>
   <li>Have experience with React (Redux/Webpack/redux-saga)</li>
@@ -12,6 +14,8 @@
   <li>Several years of effective remote work experience</li>
   <li>Like to explore and lern new technologies</li>
 </ul>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nataliship&label=Profile%20views&color=0e75b6&style=flat" alt="nataliship" /> </p>
 
