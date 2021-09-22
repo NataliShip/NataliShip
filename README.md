@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nataliya Shipelova</h1>
 <h3 align="center">A frontend developer from Russia</h3>
 
+<img alt="programmer" src="https://image.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg" align="right" width="300" style="max-width: 100%;">
+
 <p>I'm a <b>front-end developer</b> with <b>4 years</b> of professional experience.</p>
 
 <h3>What I know</h3>
-
-<img alt="programmer" src="https://image.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg" align="right" width="300" style="max-width: 100%;">
 
 <ul>
   <li>Strong knowledge of modern native JavaScript, HTML/CSS3</li>
