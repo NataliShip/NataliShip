@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nataliya Shipelova</h1>
 <h3 align="center">A frontend developer from Russia</h3>
 
+<p>I'm a <b>front-end developer</b> with <b>4 years</b> of professional experience.</p>
+
+<h3>What I know</h3>
+
+<ul>
+  <li>Strong knowledge of modern native JavaScript, HTML/CSS3</li>
+  <li>Have experience with React (Redux/Webpack/redux-saga)</li>
+  <li>Also known TypeScript, Vue and little bit Angular</li>
+  <li>Several years of effective remote work experience</li>
+  <li>Like to explore and lern new technologies</li>
+</ul>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nataliship&label=Profile%20views&color=0e75b6&style=flat" alt="nataliship" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nataliship" alt="nataliship" /></a> </p>
@@ -27,6 +39,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliship&show_icons=true&locale=en&layout=compact" alt="nataliship" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nataliship&show_icons=true&locale=en" alt="nataliship" /></p>
+
+<h3>My GitHub Stats</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nataliship&" alt="nataliship" /></p>
 
