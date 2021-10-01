@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nataliya Shipelova</h1>
-<h3 align="center">A frontend developer from Russia</h3>
+<h1>Hi 👋, I'm Nataliya Shipelova</h1>
+<h3>A frontend developer from Russia</h3>
 
 <img alt="programmer" src="https://image.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg" align="right" width="300" style="max-width: 100%;">
 
