@@ -3,7 +3,7 @@
 
 <img alt="programmer" src="https://image.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg" align="right" width="300" style="max-width: 100%;">
 
-<p>I'm a <b>front-end developer</b> with <b>8 years</b> of professional experience.</p>
+<p>I'm a <b>front-end developer</b> with <b>9 years</b> of professional experience.</p>
 
 <h3>What I know</h3>
 
