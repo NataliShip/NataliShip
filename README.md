@@ -9,8 +9,7 @@
 
 <ul>
   <li>Strong knowledge of modern native JavaScript, HTML/CSS3</li>
-  <li>Have experience with React (Redux/Webpack/redux-saga)</li>
-  <li>Also known TypeScript, Vue and little bit Angular</li>
+  <li>Have experience with React/Typescript/React Qyery</li>
   <li>Several years of effective remote work experience</li>
   <li>Like to explore and lern new technologies</li>
 </ul>
@@ -21,7 +20,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nataliship" alt="nataliship" /></a> </p>
 
-- 🔭 I’m currently working in [Netology](https://github.com/netology-group)
+- 🔭 I’m currently working in [Cloud.ru](https://cloud.ru/)
 
 - 💬 Ask me about **React, Redux, Vue, TypeScript**
 
