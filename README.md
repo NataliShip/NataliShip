@@ -14,7 +14,7 @@
 I'm a **senior frontend developer** with **9+ years** of professional experience, currently building cloud-service interfaces at [Cloud.ru](https://cloud.ru/).
 
 - 🧩 I design and ship complex React + TypeScript interfaces — from architecture to the last pixel
-- 🤖 I use AI coding agents in my daily work and am growing into **AI engineering**
+- 🤖 I ship large tasks with AI coding agents and work on bringing AI into frontend development
 - 🏡 Many years of effective remote work
 - 🎲 Off-screen: travel and board games
 
@@ -46,6 +46,35 @@ I'm a **senior frontend developer** with **9+ years** of professional experience
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 💼 What I do
+
+<table>
+  <tr>
+    <td>🏗 <b>Frontend architecture</b></td>
+    <td>Large React + TypeScript applications built as microfrontends: module boundaries, state and data layers, independent releases</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Design systems</b></td>
+    <td>Building a design system and shared UI libraries that keep products consistent and teams fast</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Performance & quality</b></td>
+    <td>Fast, accessible, well-tested interfaces; typed contracts with the backend</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Engineering culture</b></td>
+    <td>Code review, technical decisions, mentoring, clear standards the whole team can follow</td>
+  </tr>
+  <tr>
+    <td>🤖 <b>AI-driven development</b></td>
+    <td>Delivering large tasks with AI coding agents as part of the everyday workflow</td>
+  </tr>
+</table>
+
+## 🎯 Current focus
+
+**AI engineering** — bringing LLMs and agents into real products and frontend workflows.
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=nataliship&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
