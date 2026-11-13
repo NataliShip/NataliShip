@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Nataliya Shipelova — Senior Frontend Developer. React, TypeScript, AI engineering.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#101c2c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.06"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="320" rx="20"/></clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .line { animation: rise 0.6s ease-out backwards; }
+    .l1 { animation-delay: 0.3s; } .l2 { animation-delay: 0.6s; } .l3 { animation-delay: 0.9s; }
+    .l4 { animation-delay: 1.2s; } .l5 { animation-delay: 1.5s; } .l6 { animation-delay: 1.8s; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .float { animation: drift 9s ease-in-out infinite alternate; }
+    .float2 { animation: drift 12s ease-in-out infinite alternate-reverse; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes drift { from { transform: translate(0, 0); } to { transform: translate(30px, -18px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .cursor, .float, .float2 { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <circle class="float" cx="250" cy="330" r="260" fill="url(#glowA)"/>
+    <circle class="float2" cx="1040" cy="10" r="280" fill="url(#glowB)"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+
+    <!-- Left: identity -->
+    <g class="sans">
+      <text x="64" y="92" class="mono" font-size="16" fill="#5eead4" letter-spacing="1">&lt;hello world /&gt;</text>
+      <text x="62" y="158" font-size="54" font-weight="700" fill="#f8fafc" letter-spacing="-1">Nataliya Shipelova</text>
+      <rect x="64" y="178" width="96" height="4" rx="2" fill="url(#accent)"/>
+      <text x="64" y="222" font-size="23" font-weight="500" fill="#cbd5e1">Senior Frontend Developer</text>
+      <text x="64" y="258" class="mono" font-size="16" fill="#94a3b8">React · TypeScript · AI engineering<tspan class="cursor" fill="#5eead4"> ▍</tspan></text>
+    </g>
+
+    <!-- Right: code window -->
+    <g transform="translate(736 46)">
+      <rect width="404" height="228" rx="14" fill="#0a0f1a" fill-opacity="0.85" stroke="#ffffff" stroke-opacity="0.1"/>
+      <circle cx="24" cy="22" r="5.5" fill="#f87171"/>
+      <circle cx="44" cy="22" r="5.5" fill="#fbbf24"/>
+      <circle cx="64" cy="22" r="5.5" fill="#34d399"/>
+      <text x="202" y="27" text-anchor="middle" class="mono" font-size="12" fill="#64748b">profile.ts</text>
+      <line x1="0" y1="42" x2="404" y2="42" stroke="#ffffff" stroke-opacity="0.08"/>
+
+      <g class="mono" font-size="15" xml:space="preserve">
+        <text class="line l1" x="24" y="74"><tspan fill="#c084fc">const</tspan><tspan fill="#f8fafc"> dev</tspan><tspan fill="#94a3b8"> = {</tspan></text>
+        <text class="line l2" x="24" y="100"><tspan fill="#7dd3fc">  name</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">'Nataliya'</tspan><tspan fill="#94a3b8">,</tspan></text>
+        <text class="line l3" x="24" y="126"><tspan fill="#7dd3fc">  stack</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#86efac">'React'</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#86efac">'TypeScript'</tspan><tspan fill="#94a3b8">],</tspan></text>
+        <text class="line l4" x="24" y="152"><tspan fill="#7dd3fc">  company</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">'Cloud.ru'</tspan><tspan fill="#94a3b8">,</tspan></text>
+        <text class="line l5" x="24" y="178"><tspan fill="#7dd3fc">  learning</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">'AI engineering'</tspan><tspan fill="#94a3b8">,</tspan></text>
+        <text class="line l6" x="24" y="204" fill="#94a3b8">};</text>
+      </g>
+    </g>
+  </g>
+</svg>
