@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Nataliya Shipelova — Senior Frontend Developer. React, TypeScript, AI engineering." width="100%" />
+  <img src="./header.svg" alt="Nataliya Shipelova — Senior Frontend Developer. React, TypeScript, AI engineering." width="100%" />
 </p>
 
 <p align="center">
